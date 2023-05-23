@@ -6,8 +6,8 @@
       <class name="com.iplStatTest.testcases.StatsFunctionTest">
         <methods>
           <include name="setup"/>
+          <include name="TC_SFF_009_MostCenturiesBtnTest"/>
           <include name="tearDown"/>
-          <include name="TC_SFF_003_OrangeCapBtnTest"/>
         </methods>
       </class> <!-- com.iplStatTest.testcases.StatsFunctionTest -->
     </classes>

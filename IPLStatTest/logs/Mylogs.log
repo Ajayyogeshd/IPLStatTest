@@ -129,3 +129,8 @@
 [INFO ] 2023-05-24 00:52:15.846 [main] RecordTabTest - Browser is initialized
 [INFO ] 2023-05-24 00:52:28.189 [main] RecordTabTest - Stat page is verified
 [INFO ] 2023-05-24 00:52:28.390 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 01:00:40.857 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 01:00:56.316 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 01:01:57.519 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 01:02:14.104 [main] RecordTabTest - Most Centuries filter Verified
+[INFO ] 2023-05-24 01:02:14.110 [main] RecordTabTest - Browser is closed

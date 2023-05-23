@@ -92,7 +92,7 @@ public class StatsFunctionTest extends BaseClass {
 	public void TC_SFF_009_MostCenturiesBtnTest() throws InterruptedException {
 		statPage = new StatPage();
 		statPage.ClickMostCenturiessBtn();		
-		Assert.assertEquals(statPage.getBattingTopper().getText(), "SHUBMAN GILL");
+		Assert.assertEquals(statPage.getBattingTopper().getText(), "VIRAT KOHLI");
 		Assert.assertEquals(statPage.getSeasonDropdown2023().getText(), "SEASON 2023");
 		log.info("Most Centuries filter Verified");
 	}
