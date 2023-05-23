@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-22T23:21:01 IST" name="Default suite" finished-at="2023-05-22T23:29:26 IST" duration-ms="504938">
+    <groups>
+    </groups>
+    <test started-at="2023-05-22T23:21:01 IST" name="Default test" finished-at="2023-05-22T23:29:26 IST" duration-ms="504938">
+      <class name="com.iplStatTest.testcases.SeasonFunctionTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:21:02 IST" name="setup" finished-at="2023-05-22T23:21:26 IST" duration-ms="24000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_SF_001_S23()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:21:26 IST" name="TC_SF_001_S23" finished-at="2023-05-22T23:21:27 IST" duration-ms="1275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SF_001_S23 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:21:27 IST" name="tearDown" finished-at="2023-05-22T23:21:27 IST" duration-ms="377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:21:27 IST" name="setup" finished-at="2023-05-22T23:22:00 IST" duration-ms="33228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_SF_002_S22()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:22:00 IST" name="TC_SF_002_S22" finished-at="2023-05-22T23:22:05 IST" duration-ms="4674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SF_002_S22 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:22:05 IST" name="tearDown" finished-at="2023-05-22T23:22:05 IST" duration-ms="353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:22:05 IST" name="setup" finished-at="2023-05-22T23:22:41 IST" duration-ms="35700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_SF_003_S21()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:22:41 IST" name="TC_SF_003_S21" finished-at="2023-05-22T23:22:46 IST" duration-ms="4425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SF_003_S21 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:22:46 IST" name="tearDown" finished-at="2023-05-22T23:22:46 IST" duration-ms="359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:22:46 IST" name="setup" finished-at="2023-05-22T23:24:11 IST" duration-ms="85510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_SF_004_S20()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:24:11 IST" name="TC_SF_004_S20" finished-at="2023-05-22T23:24:16 IST" duration-ms="4173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SF_004_S20 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:24:16 IST" name="tearDown" finished-at="2023-05-22T23:24:16 IST" duration-ms="320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:24:16 IST" name="setup" finished-at="2023-05-22T23:25:29 IST" duration-ms="72737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_SF_005_S19()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:25:29 IST" name="TC_SF_005_S19" finished-at="2023-05-22T23:25:33 IST" duration-ms="4234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SF_005_S19 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:25:33 IST" name="tearDown" finished-at="2023-05-22T23:25:33 IST" duration-ms="401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:25:33 IST" name="setup" finished-at="2023-05-22T23:25:45 IST" duration-ms="11674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_SF_006_S18()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:25:45 IST" name="TC_SF_006_S18" finished-at="2023-05-22T23:25:49 IST" duration-ms="4509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SF_006_S18 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:25:49 IST" name="tearDown" finished-at="2023-05-22T23:25:50 IST" duration-ms="328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:25:50 IST" name="setup" finished-at="2023-05-22T23:26:11 IST" duration-ms="20985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_SF_007_S17()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:26:11 IST" name="TC_SF_007_S17" finished-at="2023-05-22T23:26:14 IST" duration-ms="3352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SF_007_S17 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:26:14 IST" name="tearDown" finished-at="2023-05-22T23:26:14 IST" duration-ms="314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:26:14 IST" name="setup" finished-at="2023-05-22T23:26:27 IST" duration-ms="12291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_SF_008_S16()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:26:27 IST" name="TC_SF_008_S16" finished-at="2023-05-22T23:26:31 IST" duration-ms="4542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SF_008_S16 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:26:31 IST" name="tearDown" finished-at="2023-05-22T23:26:32 IST" duration-ms="310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:26:32 IST" name="setup" finished-at="2023-05-22T23:26:50 IST" duration-ms="18583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_SF_009_S15()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:26:50 IST" name="TC_SF_009_S15" finished-at="2023-05-22T23:26:54 IST" duration-ms="3693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SF_009_S15 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:26:54 IST" name="tearDown" finished-at="2023-05-22T23:26:54 IST" duration-ms="363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:26:54 IST" name="setup" finished-at="2023-05-22T23:27:07 IST" duration-ms="12754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_SF_010_S14()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:27:07 IST" name="TC_SF_010_S14" finished-at="2023-05-22T23:27:11 IST" duration-ms="4336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SF_010_S14 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:27:11 IST" name="tearDown" finished-at="2023-05-22T23:27:12 IST" duration-ms="309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:27:12 IST" name="setup" finished-at="2023-05-22T23:27:25 IST" duration-ms="13740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_SF_011_S13()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:27:25 IST" name="TC_SF_011_S13" finished-at="2023-05-22T23:27:30 IST" duration-ms="4382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SF_011_S13 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:27:30 IST" name="tearDown" finished-at="2023-05-22T23:27:30 IST" duration-ms="342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:27:30 IST" name="setup" finished-at="2023-05-22T23:27:42 IST" duration-ms="11425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_SF_012_S12()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:27:42 IST" name="TC_SF_012_S12" finished-at="2023-05-22T23:27:45 IST" duration-ms="3640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SF_012_S12 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:27:45 IST" name="tearDown" finished-at="2023-05-22T23:27:46 IST" duration-ms="439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:27:46 IST" name="setup" finished-at="2023-05-22T23:28:00 IST" duration-ms="14180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_SF_013_S11()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:28:00 IST" name="TC_SF_013_S11" finished-at="2023-05-22T23:28:08 IST" duration-ms="7792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SF_013_S11 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:28:08 IST" name="tearDown" finished-at="2023-05-22T23:28:08 IST" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:28:08 IST" name="setup" finished-at="2023-05-22T23:28:26 IST" duration-ms="17934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_SF_014_S10()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:28:26 IST" name="TC_SF_014_S10" finished-at="2023-05-22T23:28:31 IST" duration-ms="5272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SF_014_S10 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:28:31 IST" name="tearDown" finished-at="2023-05-22T23:28:31 IST" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:28:31 IST" name="setup" finished-at="2023-05-22T23:28:59 IST" duration-ms="27606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_SF_015_S09()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:28:59 IST" name="TC_SF_015_S09" finished-at="2023-05-22T23:29:03 IST" duration-ms="4290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SF_015_S09 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:29:03 IST" name="tearDown" finished-at="2023-05-22T23:29:04 IST" duration-ms="306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:29:04 IST" name="setup" finished-at="2023-05-22T23:29:22 IST" duration-ms="17861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_SF_016_S08()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:29:22 IST" name="TC_SF_016_S08" finished-at="2023-05-22T23:29:26 IST" duration-ms="4094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SF_016_S08 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.iplStatTest.testcases.SeasonFunctionTest@7c351808]" started-at="2023-05-22T23:29:26 IST" name="tearDown" finished-at="2023-05-22T23:29:26 IST" duration-ms="315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.iplStatTest.testcases.SeasonFunctionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
