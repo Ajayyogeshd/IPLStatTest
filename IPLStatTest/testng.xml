@@ -7,6 +7,8 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.iplStatTest.testcases.RecordTabTest"/>
+      <class name="com.iplStatTest.testcases.SeasonFunctionTest"/>
+      <class name="com.iplStatTest.testcases.StatsFunctionTest"/>      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

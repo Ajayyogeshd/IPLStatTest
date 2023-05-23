@@ -1,147 +1,131 @@
-[INFO ] 2023-05-22 17:23:00.995 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 17:29:32.365 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 17:29:48.036 [main] RecordTabTest - Stat page is verified
-[INFO ] 2023-05-22 17:29:48.042 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 17:29:48.591 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 17:30:07.615 [main] RecordTabTest - Awards page is verified
-[INFO ] 2023-05-22 17:30:07.620 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 17:30:08.048 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 17:30:31.211 [main] RecordTabTest - Records page is verified
-[INFO ] 2023-05-22 17:30:31.217 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 17:40:07.118 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 17:40:34.720 [main] RecordTabTest - Stat page is verified
-[INFO ] 2023-05-22 17:40:34.727 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 17:40:35.176 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 17:41:01.892 [main] RecordTabTest - Awards page is verified
-[INFO ] 2023-05-22 17:41:01.895 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 17:41:02.273 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 17:41:46.968 [main] RecordTabTest - Records page is verified
-[INFO ] 2023-05-22 17:41:46.975 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 17:49:12.622 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 17:50:00.582 [main] RecordTabTest - Stat page is verified
-[INFO ] 2023-05-22 17:50:00.587 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 17:50:01.125 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 17:50:23.007 [main] RecordTabTest - Awards page is verified
-[INFO ] 2023-05-22 17:50:23.010 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 17:50:23.523 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 17:50:53.635 [main] RecordTabTest - Records page is verified
-[INFO ] 2023-05-22 17:50:53.639 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 17:52:31.209 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 17:52:57.724 [main] RecordTabTest - Stat page is verified
-[INFO ] 2023-05-22 17:52:57.732 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 18:01:12.261 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 18:01:33.695 [main] RecordTabTest - Stat page is verified
-[INFO ] 2023-05-22 18:01:33.710 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 18:03:48.445 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 18:04:23.615 [main] RecordTabTest - Stat page is verified
-[INFO ] 2023-05-22 18:07:08.741 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 18:07:35.643 [main] RecordTabTest - Stat page is verified
-[INFO ] 2023-05-22 18:13:41.536 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 18:13:57.308 [main] RecordTabTest - Stat page is verified
-[INFO ] 2023-05-22 18:13:58.340 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 18:15:51.944 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 18:16:06.510 [main] RecordTabTest - Stat page is verified
-[INFO ] 2023-05-22 18:16:07.475 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 18:18:11.376 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 18:18:26.046 [main] RecordTabTest - Stat page is verified
-[INFO ] 2023-05-22 18:18:26.055 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 18:18:26.467 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 18:18:41.125 [main] RecordTabTest - Awards page is verified
-[INFO ] 2023-05-22 18:18:41.129 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 18:18:41.498 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 18:18:55.823 [main] RecordTabTest - Records page is verified
-[INFO ] 2023-05-22 18:18:55.826 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 21:24:36.527 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 21:34:28.800 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 21:34:45.252 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 21:59:04.994 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 21:59:21.995 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 22:00:15.990 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 22:00:34.655 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 22:01:18.227 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 22:01:33.939 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 22:02:25.573 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 22:02:46.036 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 22:06:07.613 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 22:06:39.710 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 22:06:40.165 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 22:08:11.461 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 22:08:32.604 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 22:08:33.045 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 22:08:55.651 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 22:08:56.033 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 22:09:13.511 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 22:09:13.891 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 22:09:47.597 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 22:09:47.967 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 22:10:09.051 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 22:10:09.419 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 22:13:08.808 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 22:13:54.068 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 22:13:54.504 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 22:14:41.184 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 22:15:45.907 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 22:26:08.689 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 22:26:40.264 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 22:27:26.400 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 22:27:51.897 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 22:41:13.974 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 22:41:30.706 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 22:42:45.404 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 22:43:09.316 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 22:43:42.779 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 22:44:04.216 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 22:45:59.052 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 22:46:20.719 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 22:48:55.395 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 22:49:22.374 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 22:57:01.448 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 22:57:16.190 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 22:59:07.047 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 22:59:22.143 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 23:00:07.317 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 23:00:21.912 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 23:02:29.560 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 23:02:46.016 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 23:03:25.955 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 23:03:47.400 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 23:07:08.392 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 23:07:26.623 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 23:09:40.914 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 23:10:30.004 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 23:13:06.646 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 23:14:23.058 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 23:14:23.565 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 23:19:51.805 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 23:21:02.035 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 23:21:27.297 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 23:21:27.674 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 23:22:05.579 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 23:22:05.932 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 23:22:46.060 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 23:22:46.420 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 23:24:16.106 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 23:24:16.426 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 23:25:33.400 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 23:25:33.802 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 23:25:49.987 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 23:25:50.316 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 23:26:14.656 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 23:26:14.973 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 23:26:31.808 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 23:26:32.118 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 23:26:54.396 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 23:26:54.760 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 23:27:11.853 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 23:27:12.162 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 23:27:30.286 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 23:27:30.629 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 23:27:45.697 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 23:27:46.136 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 23:28:08.110 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 23:28:08.428 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 23:28:31.635 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 23:28:31.949 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 23:29:03.848 [main] RecordTabTest - Browser is closed
-[INFO ] 2023-05-22 23:29:04.154 [main] RecordTabTest - Browser is initialized
-[INFO ] 2023-05-22 23:29:26.111 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:34:14.023 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:34:26.357 [main] RecordTabTest - Stat page is verified
+[INFO ] 2023-05-24 00:34:26.476 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:34:27.202 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:34:37.215 [main] RecordTabTest - Awards page is verified
+[INFO ] 2023-05-24 00:34:37.221 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:34:37.695 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:34:48.777 [main] RecordTabTest - Records page is verified
+[INFO ] 2023-05-24 00:34:48.780 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:34:49.169 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:35:00.127 [main] RecordTabTest - Season 2023 Verified
+[INFO ] 2023-05-24 00:35:00.130 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:35:00.506 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:35:12.859 [main] RecordTabTest - Season 2022 Verified
+[INFO ] 2023-05-24 00:35:12.862 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:35:13.263 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:35:26.874 [main] RecordTabTest - Season 2021 Verified
+[INFO ] 2023-05-24 00:35:26.876 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:35:27.250 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:35:40.512 [main] RecordTabTest - Season 2020 Verified
+[INFO ] 2023-05-24 00:35:40.517 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:35:40.949 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:36:14.353 [main] RecordTabTest - Season 2019 Verified
+[INFO ] 2023-05-24 00:36:14.356 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:36:14.729 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:36:29.026 [main] RecordTabTest - Season 2018 Verified
+[INFO ] 2023-05-24 00:36:29.028 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:36:29.410 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:36:42.706 [main] RecordTabTest - Season 2017 Verified
+[INFO ] 2023-05-24 00:36:42.707 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:36:43.090 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:36:56.543 [main] RecordTabTest - Season 2016 Verified
+[INFO ] 2023-05-24 00:36:56.545 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:36:56.928 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:37:09.521 [main] RecordTabTest - Season 2015 Verified
+[INFO ] 2023-05-24 00:37:09.523 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:37:09.912 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:37:23.059 [main] RecordTabTest - Season 2014 Verified
+[INFO ] 2023-05-24 00:37:23.062 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:37:23.534 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:37:36.711 [main] RecordTabTest - Season 2013 Verified
+[INFO ] 2023-05-24 00:37:36.713 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:37:37.099 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:37:50.679 [main] RecordTabTest - Season 2012 Verified
+[INFO ] 2023-05-24 00:37:50.681 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:37:51.178 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:38:05.295 [main] RecordTabTest - Season 2011 Verified
+[INFO ] 2023-05-24 00:38:05.296 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:38:05.696 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:38:18.602 [main] RecordTabTest - Season 2010 Verified
+[INFO ] 2023-05-24 00:38:18.603 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:38:19.005 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:38:33.195 [main] RecordTabTest - Season 2009 Verified
+[INFO ] 2023-05-24 00:38:33.197 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:38:33.592 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:38:35.483 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:38:49.173 [main] RecordTabTest - Orange Cap filter Verified
+[INFO ] 2023-05-24 00:38:49.175 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:38:49.552 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:39:02.217 [main] RecordTabTest - Most Fours filter Verified
+[INFO ] 2023-05-24 00:39:02.220 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:39:02.658 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:39:14.770 [main] RecordTabTest - Most Fours innings filter Verified
+[INFO ] 2023-05-24 00:39:14.773 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:39:15.145 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:39:27.473 [main] RecordTabTest - Most Sixes filter Verified
+[INFO ] 2023-05-24 00:39:27.475 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:39:27.874 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:39:40.514 [main] RecordTabTest - Most Sixes Innings filter Verified
+[INFO ] 2023-05-24 00:39:40.519 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:39:41.199 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:39:54.290 [main] RecordTabTest - Most Fifties filter Verified
+[INFO ] 2023-05-24 00:39:54.292 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:39:54.732 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:40:07.802 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:40:08.133 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:40:20.476 [main] RecordTabTest - Fastest Fifties filter Verified
+[INFO ] 2023-05-24 00:40:20.478 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:40:20.846 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:40:34.577 [main] RecordTabTest - Fastest Centuries filter Verified
+[INFO ] 2023-05-24 00:40:34.579 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:40:34.962 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:40:47.667 [main] RecordTabTest - Highest Scores filter Verified
+[INFO ] 2023-05-24 00:40:47.670 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:40:48.127 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:41:00.703 [main] RecordTabTest - Best Batting Strike Rate filter Verified
+[INFO ] 2023-05-24 00:41:00.705 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:41:01.082 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:41:14.173 [main] RecordTabTest - Best Batting Strike Rate Innings filter Verified
+[INFO ] 2023-05-24 00:41:14.175 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:41:14.610 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:41:27.720 [main] RecordTabTest - Best Batting Average filter Verified
+[INFO ] 2023-05-24 00:41:27.722 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:41:28.096 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:41:41.032 [main] RecordTabTest - Purple Cap filter Verified
+[INFO ] 2023-05-24 00:41:41.034 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:41:41.431 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:41:55.484 [main] RecordTabTest - Most Maidens filter Verified
+[INFO ] 2023-05-24 00:41:55.486 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:41:55.846 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:42:09.435 [main] RecordTabTest - Most Dot Balls filter Verified
+[INFO ] 2023-05-24 00:42:09.438 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:42:09.815 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:42:22.694 [main] RecordTabTest - Most Dot Balls Innings filter Verified
+[INFO ] 2023-05-24 00:42:22.696 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:42:23.061 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:42:38.187 [main] RecordTabTest - Most Best Bowling Average filter Verified
+[INFO ] 2023-05-24 00:42:38.189 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:42:38.505 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:42:52.427 [main] RecordTabTest - Most Best Bowling Economy Filter Verified
+[INFO ] 2023-05-24 00:42:52.429 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:42:52.787 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:43:06.554 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:43:06.940 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:43:20.372 [main] RecordTabTest - Most Best Bowling Strike Rate Filter Verified
+[INFO ] 2023-05-24 00:43:20.374 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:43:20.786 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:43:33.942 [main] RecordTabTest - Most Best Bowling Strike Rate Innings Filter Verified
+[INFO ] 2023-05-24 00:43:33.944 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:43:34.331 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:43:48.018 [main] RecordTabTest - Most Best Bowling Figures Filter Verified
+[INFO ] 2023-05-24 00:43:48.020 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:43:48.398 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:44:03.710 [main] RecordTabTest - Most Runs Conceded Filter Verified
+[INFO ] 2023-05-24 00:44:03.712 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:44:04.027 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:44:17.235 [main] RecordTabTest - Hat-Tricks Filter Verified
+[INFO ] 2023-05-24 00:44:17.237 [main] RecordTabTest - Browser is closed
+[INFO ] 2023-05-24 00:52:15.846 [main] RecordTabTest - Browser is initialized
+[INFO ] 2023-05-24 00:52:28.189 [main] RecordTabTest - Stat page is verified
+[INFO ] 2023-05-24 00:52:28.390 [main] RecordTabTest - Browser is closed

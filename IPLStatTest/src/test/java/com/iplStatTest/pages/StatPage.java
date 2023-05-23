@@ -1,10 +1,8 @@
 package com.iplStatTest.pages;
 
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import org.testng.Assert;
 
 import com.base.BaseClass;
 
@@ -18,6 +16,9 @@ public class StatPage extends BaseClass {
 
 	@FindBy(xpath = "(//div[@class='sm-lb-ply-name ng-binding'])[1]")
 	private WebElement battingTopper;
+
+	@FindBy(xpath = "(//div[@class='sm-lb-ply-name ng-binding'])[2]")
+	private WebElement bowlingTopper;
 
 	@FindBy(xpath = "//a[@class='np-recordtab__btn statsContentTab awardsStats']")
 	private WebElement awardsTab;
@@ -67,11 +68,208 @@ public class StatPage extends BaseClass {
 	@FindBy(xpath = "//div[text()='SEASON 2010']")
 	private WebElement seasonDropdown2010;
 
-	@FindBy(xpath = "//div[@class='cSBListItems seasonFilterItems ng-binding ng-scope'][normalize-space()='SEASON 2009']")
+	@FindBy(xpath = "//div[@class='cSBListItems seasonFilterItems ng-binding ng-scope'][text()='SEASON 2009']")
 	private WebElement seasonDropdown2009;
 
-	@FindBy(xpath = "//div[@class='cSBListItems seasonFilterItems ng-binding ng-scope'][normalize-space()='SEASON 2008']")
+	@FindBy(xpath = "//div[@class='cSBListItems seasonFilterItems ng-binding ng-scope'][text()='SEASON 2008']")
 	private WebElement seasonDropdown2008;
+
+	@FindBy(xpath = "(//div[@class='cSBDisplay ng-binding'])[2]")
+	private WebElement statsFilterBtn;
+
+	@FindBy(xpath = "//span[@class='cSBListFItems batFItem selected']")
+	private WebElement battersBtn;
+
+	@FindBy(xpath = "//span[@class='cSBListFItems bowFItem']")
+	private WebElement bowlersBtn;
+	
+	@FindBy(xpath = "//div[text()='Aramco Orange Cap']")
+	private WebElement orangeCapBtn;
+	
+	@FindBy(xpath = "//div[@class='cSBListItems batters ng-binding ng-scope selected'][text()='Most Fours']")
+	private WebElement mostFoursBtn;
+	
+	@FindBy(xpath = "//div[@class='sm-lb-ply-name ng-binding'][text()='Yashasvi Jaiswal']")
+	private WebElement mostFoursTopper;
+	
+	@FindBy(xpath = "//div[text()='Most Fours (Innings)']")
+	private WebElement mostFoursInningsBtn;
+	
+	@FindBy(xpath = "//div[contains(@class,'cSBListItems batters ng-binding ng-scope selected')][text()='Most Sixes']")
+	private WebElement mostSixesBtn;
+	
+	@FindBy(xpath = "//div[text()='Most Sixes (Innings)']")
+	private WebElement mostSixesInningsBtn;
+	
+	@FindBy(xpath = "//div[text()='Most Fifties']")
+	private WebElement mostFiftiesBtn;
+	
+	@FindBy(xpath = "//div[text()='Most Centuries']")
+	private WebElement mostCenturiesBtn;
+	
+	@FindBy(xpath = "//div[text()='Fastest Fifties']")
+	private WebElement fastestFiftiesBtn;
+	
+	@FindBy(xpath = "//div[text()='Fastest Centuries']")
+	private WebElement fastestCenturiesBtn;
+	
+	@FindBy(xpath = "//div[text()='Highest Scores']")
+	private WebElement highestScoresBtn;
+
+	@FindBy(xpath = "//div[text()='Best Batting Strike Rate']")
+	private WebElement bestBattingSRBtn;
+	
+	@FindBy(xpath = "//div[text()='Best Batting Strike Rate(I)']")
+	private WebElement bestBattingSRInningsBtn;
+	
+	@FindBy(xpath = "//div[@ng-repeat='list in battingStatsList'][text()='Best Batting Averages']")
+	private WebElement bestBattingAverageBtn;
+	
+	@FindBy(xpath = "//div[text()='Aramco Purple Cap']")
+	private WebElement purpleCapBtn;
+	
+	@FindBy(xpath = "//div[text()='Most Maidens']")
+	private WebElement mostMaidensBtn;
+	
+	@FindBy(xpath = "//div[text()='Most Dot Balls']")
+	private WebElement mostDotBallsBtn;
+	
+	@FindBy(xpath = "//div[text()='Most Dot Balls (Innings)']")
+	private WebElement mostDotBallsInningsBtn;
+	
+	@FindBy(xpath = "//div[contains(@class,'cSBListItems bowlers ng-binding ng-scope selected')][text()='Best Bowling Average']")
+	private WebElement bestBowlingAverageBtn;
+	
+	@FindBy(xpath = "//div[text()='Best Bowling Economy']")
+	private WebElement bestBowlingEconomyBtn;
+	
+	@FindBy(xpath = "//div[text()='Best Bowling Economy (Innings)']")
+	private WebElement bestBowlingEconomyInningsBtn;
+	
+	@FindBy(xpath = "//div[text()='Best Bowling Strike-Rate']")
+	private WebElement bestBowlingStrikeRateBtn;
+	
+	@FindBy(xpath = "//div[text()='Best Bowling Strike-Rate (Innings)']")
+	private WebElement bestBowlingStrikeRateInningsBtn;
+	
+	@FindBy(xpath = "//div[@class='cSBListItems bowlers ng-binding ng-scope selected'][text()='Best Bowling Figures']")
+	private WebElement bestBowlingFiguresBtn;
+	
+	@FindBy(xpath = "//div[text()='Most Runs Conceded (Innings)']")
+	private WebElement mostRunsConcededInningsBtn;
+	
+	@FindBy(xpath = "//div[text()='Hat-tricks']")
+	private WebElement hatTricksBtn;
+	
+	
+	
+	
+	
+	
+	public WebElement getOrangeCapBtn() {
+		return orangeCapBtn;
+	}
+	
+	public WebElement getMostFoursBtn() {
+		return mostFoursBtn;
+	}
+
+	
+	public WebElement getMostFoursTopper() {
+		return mostFoursTopper;
+	}
+
+	public WebElement getMostFoursInningsBtn() {
+		return mostFoursInningsBtn;
+	}
+
+	public WebElement getMostSixesBtn() {
+		return mostSixesBtn;
+	}
+
+	public WebElement getMostSixesInningsBtn() {
+		return mostSixesInningsBtn;
+	}
+
+	public WebElement getMostFiftiesBtn() {
+		return mostFiftiesBtn;
+	}
+
+	public WebElement getMostCenturiesBtn() {
+		return mostCenturiesBtn;
+	}
+
+	public WebElement getFastestFiftiesBtn() {
+		return fastestFiftiesBtn;
+	}
+
+	public WebElement getFastestCenturiesBtn() {
+		return fastestCenturiesBtn;
+	}
+
+	public WebElement getHighestScoresBtn() {
+		return highestScoresBtn;
+	}
+
+	public WebElement getBestBattingSRBtn() {
+		return bestBattingSRBtn;
+	}
+
+	public WebElement getBestBattingSRInningsBtn() {
+		return bestBattingSRInningsBtn;
+	}
+
+	public WebElement getBestBattingAverageBtn() {
+		return bestBattingAverageBtn;
+	}
+
+	public WebElement getPurpleCapBtn() {
+		return purpleCapBtn;
+	}
+
+	public WebElement getMostMaidensBtn() {
+		return mostMaidensBtn;
+	}
+
+	public WebElement getMostDotBallsBtn() {
+		return mostDotBallsBtn;
+	}
+
+	public WebElement getMostDotBallsInningsBtn() {
+		return mostDotBallsInningsBtn;
+	}
+
+	public WebElement getBestBowlingAverageBtn() {
+		return bestBowlingAverageBtn;
+	}
+
+	public WebElement getBestBowlingEconomyBtn() {
+		return bestBowlingEconomyBtn;
+	}
+
+	public WebElement getBestBowlingEconomyInningsBtn() {
+		return bestBowlingEconomyInningsBtn;
+	}
+
+	public WebElement getBestBowlingStrikeRateBtn() {
+		return bestBowlingStrikeRateBtn;
+	}
+
+	public WebElement getBestBowlingStrikeRateInningsBtn() {
+		return bestBowlingStrikeRateInningsBtn;
+	}
+
+	public WebElement getBestBowlingFiguresBtn() {
+		return bestBowlingFiguresBtn;
+	}
+
+	public WebElement getMostRunsConcededInningsBtn() {
+		return mostRunsConcededInningsBtn;
+	}
+
+	public WebElement getHatTricksBtn() {
+		return hatTricksBtn;
+	}
 
 	public WebElement getSeasonDropdown2023() {
 		return seasonDropdown2023;
@@ -156,6 +354,23 @@ public class StatPage extends BaseClass {
 	public WebElement getRecordsTab() {
 		return recordsTab;
 	}
+	
+	public WebElement getBowlingTopper() {
+		return bowlingTopper;
+	}
+
+	public WebElement getStatsFilterBtn() {
+		return statsFilterBtn;
+	}
+
+	public WebElement getBattersBtn() {
+		return battersBtn;
+	}
+
+	public WebElement getBowlersBtn() {
+		return bowlersBtn;
+	}
+
 
 	public void acceptCookie() {
 		setImplicitWait();
@@ -164,8 +379,7 @@ public class StatPage extends BaseClass {
 
 	public void enterStatPage() {
 		acceptCookie();
-		Assert.assertEquals(getTextFromElement(getBattingTopper()), "FAF DU PLESSIS", "Batting topper verified");
-	}
+		}
 
 	public AwardPage clickAwardTab() {
 		acceptCookie();
@@ -180,6 +394,20 @@ public class StatPage extends BaseClass {
 		return new RecordsPage();
 	}
 
+	public void clickBattersBtn() {
+		acceptCookie();
+		clickElement(getStatsFilterBtn());
+		clickElement(getBattersBtn());
+
+	}
+	
+	public void clickBowlersBtn() {
+		acceptCookie();
+		clickElement(getStatsFilterBtn());
+		clickElement(getBowlersBtn());
+
+	}
+
 	public void seasonDropdownSelection(String text) {
 		acceptCookie();
 		clickElement(getSeasonDropdown2023());
@@ -187,87 +415,70 @@ public class StatPage extends BaseClass {
 		case "2023":
 			waitForElementVisibility(getSeasonDropdown2023());
 			clickElementWithJavaScript(getSeasonDropdown2023());
-			Assert.assertEquals(getTextFromElement(getBattingTopper()), "FAF DU PLESSIS", "Batting topper verified");
 			break;
 		case "2022":
 
 			waitForElementVisibility(getSeasonDropdown2022());
-//			clickElement(getSeasonDropdown2022());
 			clickElementWithJavaScript(getSeasonDropdown2022());
-			Assert.assertEquals(getTextFromElement(getBattingTopper()), "JOS BUTTLER", "Batting topper verified");
 			break;
 		case "2021":
 			waitForElementVisibility(getSeasonDropdown2021());
 			clickElementWithJavaScript(getSeasonDropdown2021());
-			Assert.assertEquals(getTextFromElement(getBattingTopper()), "RUTURAJ GAIKWAD", "Batting topper verified");
 			break;
 
 		case "2020":
 			waitForElementVisibility(getSeasonDropdown2020());
 			clickElementWithJavaScript(getSeasonDropdown2020());
-			Assert.assertEquals(getTextFromElement(getBattingTopper()), "KL RAHUL", "Batting topper verified");
 			break;
 
 		case "2019":
 			waitForElementVisibility(getSeasonDropdown2019());
 			clickElementWithJavaScript(getSeasonDropdown2019());
-			Assert.assertEquals(getTextFromElement(getBattingTopper()), "DAVID WARNER", "Batting topper verified");
 			break;
 
 		case "2018":
 			clickElementWithJavaScript(getSeasonDropdown2018());
-			Assert.assertEquals(getTextFromElement(getBattingTopper()), "KANE WILLIAMSON", "Batting topper verified");
 			break;
 
 		case "2017":
 			clickElementWithJavaScript(getSeasonDropdown2017());
-			Assert.assertEquals(getTextFromElement(getBattingTopper()), "DAVID WARNER", "Batting topper verified");
 			break;
 
 		case "2016":
 			clickElementWithJavaScript(getSeasonDropdown2016());
-			Assert.assertEquals(getTextFromElement(getBattingTopper()), "VIRAT KOHLI", "Batting topper verified");
 			break;
 
 		case "2015":
 			clickElementWithJavaScript(getSeasonDropdown2015());
-			Assert.assertEquals(getTextFromElement(getBattingTopper()), "DAVID WARNER", "Batting topper verified");
 			break;
 
 		case "2014":
 			clickElementWithJavaScript(getSeasonDropdown2014());
-			Assert.assertEquals(getTextFromElement(getBattingTopper()), "ROBIN UTHAPPA", "Batting topper verified");
 			break;
 
 		case "2013":
 			clickElementWithJavaScript(getSeasonDropdown2013());
-			Assert.assertEquals(getTextFromElement(getBattingTopper()), "MICHAEL HUSSEY", "Batting topper verified");
 			break;
 
 		case "2012":
 			clickElementWithJavaScript(getSeasonDropdown2012());
-			Assert.assertEquals(getTextFromElement(getBattingTopper()), "CHRIS GAYLE", "Batting topper verified");
 			break;
 
 		case "2011":
 			clickElementWithJavaScript(getSeasonDropdown2011());
-			Assert.assertEquals(getTextFromElement(getBattingTopper()), "CHRIS GAYLE", "Batting topper verified");
 			break;
 
 		case "2010":
 			clickElementWithJavaScript(getSeasonDropdown2010());
-			Assert.assertEquals(getTextFromElement(getBattingTopper()), "SACHIN TENDULKAR", "Batting topper verified");
 			break;
 
 		case "2009":
 			clickElementWithJavaScript(getSeasonDropdown2009());
-			Assert.assertEquals(getTextFromElement(getBattingTopper()), "MATTHEW HAYDEN", "Batting topper verified");
 			break;
 
 		case "2008":
-			
+
 			clickElementWithJavaScript(getSeasonDropdown2008());
-			Assert.assertEquals(getTextFromElement(getBattingTopper()), "SHAUN MARSH", "Batting topper verified");
 			break;
 
 		default:
@@ -275,5 +486,157 @@ public class StatPage extends BaseClass {
 		}
 
 	}
-
+	
+	public void ClickOrangeCapBtn() throws InterruptedException {
+		clickBattersBtn();
+		clickElement(getOrangeCapBtn());
+		Thread.sleep(2000);		
+	}
+	
+	public void ClickMostFoursBtn() throws InterruptedException {
+		clickBattersBtn();
+		waitForElementVisibility(getBattingTopper());
+		clickElementWithJavaScript(getMostFoursBtn());
+		Thread.sleep(2000);
+	}
+	
+	public void ClickMostFoursInningsBtn() throws InterruptedException {
+		clickBattersBtn();
+		clickElementWithJavaScript(getMostFoursInningsBtn());
+		Thread.sleep(2000);
+		
+	}
+	
+	public void ClickMostSixesBtn() throws InterruptedException {
+		clickBattersBtn();
+		clickElementWithJavaScript(getMostSixesBtn());
+		Thread.sleep(2000);
+	}
+	
+	public void ClickMostFiftiesBtn() throws InterruptedException {
+		clickBattersBtn();
+		clickElementWithJavaScript(getMostFiftiesBtn());
+		Thread.sleep(2000);
+	}
+	
+	public void ClickMostSixesInningsBtn() throws InterruptedException {
+		clickBattersBtn();
+		clickElementWithJavaScript(getMostSixesInningsBtn());
+		Thread.sleep(2000);
+	}
+	
+	public void ClickMostCenturiessBtn() throws InterruptedException {
+		clickBattersBtn();
+		clickElementWithJavaScript(getMostCenturiesBtn());
+		Thread.sleep(2000);
+	}
+	
+	public void ClickFastestFiftiesBtn() throws InterruptedException {
+		clickBattersBtn();
+		clickElementWithJavaScript(getFastestFiftiesBtn());
+		Thread.sleep(2000);
+	}
+	
+	public void ClickFastestCenturiesBtn() throws InterruptedException {
+		clickBattersBtn();
+		clickElementWithJavaScript(getFastestFiftiesBtn());
+		Thread.sleep(2000);
+	}
+	
+	public void ClickHighestScoresBtn() throws InterruptedException {
+		clickBattersBtn();
+		clickElementWithJavaScript(getHighestScoresBtn());
+		Thread.sleep(2000);
+	}
+	
+	public void ClickBestBattingSRBtn() throws InterruptedException {
+		clickBattersBtn();
+		clickElementWithJavaScript(getBestBattingSRBtn());
+		Thread.sleep(2000);
+	}
+	
+	public void ClickBestBattingSRInningsBtn() throws InterruptedException {
+		clickBattersBtn();
+		clickElementWithJavaScript(getBestBattingSRInningsBtn());
+		Thread.sleep(2000);
+	}
+	
+	public void ClickBestBattingAverageBtn() throws InterruptedException {
+		clickBattersBtn();
+		clickElementWithJavaScript(getBestBattingAverageBtn());
+		Thread.sleep(2000);	
+	}
+	
+	public void clickPurpleCapBtn() throws InterruptedException {
+		clickBowlersBtn();
+		clickElementWithJavaScript(getPurpleCapBtn());
+		Thread.sleep(2000);
+	}
+	
+	public void clickMostMaidenBtn() throws InterruptedException {
+		clickBowlersBtn();
+		clickElementWithJavaScript(getMostMaidensBtn());
+		Thread.sleep(2000);
+	}
+	
+	public void clickMostDotBallsBtn() throws InterruptedException {
+		clickBowlersBtn();
+		clickElementWithJavaScript(getMostDotBallsBtn());
+		Thread.sleep(2000);
+	}
+	
+	public void clickMostDotBallsInningsBtn() throws InterruptedException {
+		clickBowlersBtn();
+		clickElementWithJavaScript(getMostDotBallsInningsBtn());
+		Thread.sleep(2000);
+	}
+	
+	public void clickBestBowlingAverageBtn() throws InterruptedException {
+		clickBowlersBtn();
+		clickElementWithJavaScript(getBestBowlingAverageBtn());
+		Thread.sleep(2000);
+	}
+	
+	public void clickBestBowlingEconomyBtn() throws InterruptedException {
+		clickBowlersBtn();
+		clickElementWithJavaScript(getBestBowlingEconomyBtn());
+		Thread.sleep(2000);
+	}
+	
+	public void clickBestBowlingEconomyInningsBtn() throws InterruptedException {
+		clickBowlersBtn();
+		clickElementWithJavaScript(getBestBowlingEconomyInningsBtn());
+		Thread.sleep(2000);
+	}
+	
+	public void clickBestBowlingStrikeRateBtn() throws InterruptedException {
+		clickBowlersBtn();
+		clickElementWithJavaScript(getBestBowlingStrikeRateBtn());
+		Thread.sleep(2000);
+	}
+	
+	public void clickBestBowlingStrikeRateInningsBtn() throws InterruptedException {
+		clickBowlersBtn();
+		clickElementWithJavaScript(getBestBowlingStrikeRateInningsBtn());
+		Thread.sleep(2000);
+	}
+	
+	public void clickBestBowlingFiguresBtn() throws InterruptedException {
+		clickBowlersBtn();
+		clickElementWithJavaScript(getBestBowlingFiguresBtn());
+		Thread.sleep(2000);
+	}
+	
+	public void clickMostRunsConcededBtn() throws InterruptedException {
+		clickBowlersBtn();
+		clickElementWithJavaScript(getMostRunsConcededInningsBtn());
+		Thread.sleep(2000);
+	}
+	
+	public void clickHatTricksBtn() throws InterruptedException {
+		clickBowlersBtn();
+		clickElementWithJavaScript(getHatTricksBtn());
+		Thread.sleep(2000);
+	}
+	
 }

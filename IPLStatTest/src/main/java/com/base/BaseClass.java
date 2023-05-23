@@ -13,9 +13,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.io.FileHandler;
-import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import config.ConfigReader;
@@ -104,16 +102,18 @@ public class BaseClass {
 	public void setImplicitWait() {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 	}
+
 	/**
 	 * Waits for a WebElement to become visible.
+	 * 
 	 * @param element The WebElement to wait for.
-	*/
-	
+	 */
+
 	public void waitForElementVisibility(WebElement element) {
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 		wait.until(ExpectedConditions.visibilityOf(element));
 	}
-	
+
 	public void waitForElementClickable(WebElement element) {
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 		wait.until(ExpectedConditions.elementToBeClickable(element));
@@ -169,14 +169,25 @@ public class BaseClass {
 
 		return destinationScreenshotPath;
 	}
-	 public void scrollIntoView( WebElement element) {
-	        JavascriptExecutor jsExecutor = (JavascriptExecutor) driver;
-	        jsExecutor.executeScript("arguments[0].scrollIntoView(true);", element);
-	    }
-	 public void clickElementWithJavaScript(WebElement element) {
-		    JavascriptExecutor executor = (JavascriptExecutor) driver;
-		    executor.executeScript("arguments[0].click();", element);
-		}
 
+	/**
+	 * Scrolls the web page to bring the specified element into view.
+	 *
+	 * @param element The WebElement to scroll to.
+	 */
+	public void scrollIntoView(WebElement element) {
+		JavascriptExecutor jsExecutor = (JavascriptExecutor) driver;
+		jsExecutor.executeScript("arguments[0].scrollIntoView(true);", element);
+	}
+
+	/**
+	 * Clicks on the specified element using JavaScript executor.
+	 *
+	 * @param element The WebElement to click.
+	 */
+	public void clickElementWithJavaScript(WebElement element) {
+		JavascriptExecutor executor = (JavascriptExecutor) driver;
+		executor.executeScript("arguments[0].click();", element);
+	}
 
 }

@@ -3,28 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.iplStatTest.testcases.SeasonFunctionTest">
+      <class name="com.iplStatTest.testcases.StatsFunctionTest">
         <methods>
-          <include name="tearDown"/>
-          <include name="TC_SF_005_S19"/>
-          <include name="TC_SF_003_S21"/>
-          <include name="TC_SF_016_S08"/>
-          <include name="TC_SF_015_S09"/>
-          <include name="TC_SF_002_S22"/>
-          <include name="TC_SF_009_S15"/>
-          <include name="TC_SF_013_S11"/>
-          <include name="TC_SF_011_S13"/>
-          <include name="TC_SF_007_S17"/>
-          <include name="TC_SF_010_S14"/>
-          <include name="TC_SF_006_S18"/>
           <include name="setup"/>
-          <include name="TC_SF_004_S20"/>
-          <include name="TC_SF_001_S23"/>
-          <include name="TC_SF_014_S10"/>
-          <include name="TC_SF_008_S16"/>
-          <include name="TC_SF_012_S12"/>
+          <include name="tearDown"/>
+          <include name="TC_SFF_003_OrangeCapBtnTest"/>
         </methods>
-      </class> <!-- com.iplStatTest.testcases.SeasonFunctionTest -->
+      </class> <!-- com.iplStatTest.testcases.StatsFunctionTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

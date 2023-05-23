@@ -40,7 +40,7 @@ public class RecordTabTest extends BaseClass {
 		StatPage statPage = new StatPage();
 		statPage.enterStatPage();
 		log.info("Stat page is verified");
-
+		Assert.assertEquals(getTextFromElement(statPage.getBattingTopper()), "FAF DU PLESSIS", "Batting topper verified");
 	}
 
 	@Test
